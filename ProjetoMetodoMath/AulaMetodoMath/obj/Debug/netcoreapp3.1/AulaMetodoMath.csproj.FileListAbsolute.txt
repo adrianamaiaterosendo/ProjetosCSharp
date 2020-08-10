@@ -1,0 +1,13 @@
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\AulaMetodoMath\AulaMetodoMath\bin\Debug\netcoreapp3.1\AulaMetodoMath.exe
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\AulaMetodoMath\AulaMetodoMath\bin\Debug\netcoreapp3.1\AulaMetodoMath.deps.json
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\AulaMetodoMath\AulaMetodoMath\bin\Debug\netcoreapp3.1\AulaMetodoMath.runtimeconfig.json
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\AulaMetodoMath\AulaMetodoMath\bin\Debug\netcoreapp3.1\AulaMetodoMath.runtimeconfig.dev.json
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\AulaMetodoMath\AulaMetodoMath\bin\Debug\netcoreapp3.1\AulaMetodoMath.dll
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\AulaMetodoMath\AulaMetodoMath\bin\Debug\netcoreapp3.1\AulaMetodoMath.pdb
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\AulaMetodoMath\AulaMetodoMath\obj\Debug\netcoreapp3.1\AulaMetodoMath.csprojAssemblyReference.cache
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\AulaMetodoMath\AulaMetodoMath\obj\Debug\netcoreapp3.1\AulaMetodoMath.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\AulaMetodoMath\AulaMetodoMath\obj\Debug\netcoreapp3.1\AulaMetodoMath.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\AulaMetodoMath\AulaMetodoMath\obj\Debug\netcoreapp3.1\AulaMetodoMath.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\AulaMetodoMath\AulaMetodoMath\obj\Debug\netcoreapp3.1\AulaMetodoMath.dll
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\AulaMetodoMath\AulaMetodoMath\obj\Debug\netcoreapp3.1\AulaMetodoMath.pdb
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\AulaMetodoMath\AulaMetodoMath\obj\Debug\netcoreapp3.1\AulaMetodoMath.genruntimeconfig.cache
