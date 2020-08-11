@@ -1,0 +1,13 @@
+C:\Users\Adriana\source\repos\ProjetoLancarDado\ProjetoLancarDado\bin\Debug\netcoreapp3.1\ProjetoLancarDado.exe
+C:\Users\Adriana\source\repos\ProjetoLancarDado\ProjetoLancarDado\bin\Debug\netcoreapp3.1\ProjetoLancarDado.deps.json
+C:\Users\Adriana\source\repos\ProjetoLancarDado\ProjetoLancarDado\bin\Debug\netcoreapp3.1\ProjetoLancarDado.runtimeconfig.json
+C:\Users\Adriana\source\repos\ProjetoLancarDado\ProjetoLancarDado\bin\Debug\netcoreapp3.1\ProjetoLancarDado.runtimeconfig.dev.json
+C:\Users\Adriana\source\repos\ProjetoLancarDado\ProjetoLancarDado\bin\Debug\netcoreapp3.1\ProjetoLancarDado.dll
+C:\Users\Adriana\source\repos\ProjetoLancarDado\ProjetoLancarDado\bin\Debug\netcoreapp3.1\ProjetoLancarDado.pdb
+C:\Users\Adriana\source\repos\ProjetoLancarDado\ProjetoLancarDado\obj\Debug\netcoreapp3.1\ProjetoLancarDado.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\ProjetoLancarDado\ProjetoLancarDado\obj\Debug\netcoreapp3.1\ProjetoLancarDado.AssemblyInfoInputs.cache
+C:\Users\Adriana\source\repos\ProjetoLancarDado\ProjetoLancarDado\obj\Debug\netcoreapp3.1\ProjetoLancarDado.AssemblyInfo.cs
+C:\Users\Adriana\source\repos\ProjetoLancarDado\ProjetoLancarDado\obj\Debug\netcoreapp3.1\ProjetoLancarDado.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\ProjetoLancarDado\ProjetoLancarDado\obj\Debug\netcoreapp3.1\ProjetoLancarDado.dll
+C:\Users\Adriana\source\repos\ProjetoLancarDado\ProjetoLancarDado\obj\Debug\netcoreapp3.1\ProjetoLancarDado.pdb
+C:\Users\Adriana\source\repos\ProjetoLancarDado\ProjetoLancarDado\obj\Debug\netcoreapp3.1\ProjetoLancarDado.genruntimeconfig.cache
