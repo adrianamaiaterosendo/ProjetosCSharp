@@ -1,0 +1,13 @@
+C:\Users\Adriana\source\repos\TaxadeAssinaturas\TaxadeAssinaturas\bin\Debug\netcoreapp3.1\TaxadeAssinaturas.exe
+C:\Users\Adriana\source\repos\TaxadeAssinaturas\TaxadeAssinaturas\bin\Debug\netcoreapp3.1\TaxadeAssinaturas.deps.json
+C:\Users\Adriana\source\repos\TaxadeAssinaturas\TaxadeAssinaturas\bin\Debug\netcoreapp3.1\TaxadeAssinaturas.runtimeconfig.json
+C:\Users\Adriana\source\repos\TaxadeAssinaturas\TaxadeAssinaturas\bin\Debug\netcoreapp3.1\TaxadeAssinaturas.runtimeconfig.dev.json
+C:\Users\Adriana\source\repos\TaxadeAssinaturas\TaxadeAssinaturas\bin\Debug\netcoreapp3.1\TaxadeAssinaturas.dll
+C:\Users\Adriana\source\repos\TaxadeAssinaturas\TaxadeAssinaturas\bin\Debug\netcoreapp3.1\TaxadeAssinaturas.pdb
+C:\Users\Adriana\source\repos\TaxadeAssinaturas\TaxadeAssinaturas\obj\Debug\netcoreapp3.1\TaxadeAssinaturas.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\TaxadeAssinaturas\TaxadeAssinaturas\obj\Debug\netcoreapp3.1\TaxadeAssinaturas.AssemblyInfoInputs.cache
+C:\Users\Adriana\source\repos\TaxadeAssinaturas\TaxadeAssinaturas\obj\Debug\netcoreapp3.1\TaxadeAssinaturas.AssemblyInfo.cs
+C:\Users\Adriana\source\repos\TaxadeAssinaturas\TaxadeAssinaturas\obj\Debug\netcoreapp3.1\TaxadeAssinaturas.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\TaxadeAssinaturas\TaxadeAssinaturas\obj\Debug\netcoreapp3.1\TaxadeAssinaturas.dll
+C:\Users\Adriana\source\repos\TaxadeAssinaturas\TaxadeAssinaturas\obj\Debug\netcoreapp3.1\TaxadeAssinaturas.pdb
+C:\Users\Adriana\source\repos\TaxadeAssinaturas\TaxadeAssinaturas\obj\Debug\netcoreapp3.1\TaxadeAssinaturas.genruntimeconfig.cache
