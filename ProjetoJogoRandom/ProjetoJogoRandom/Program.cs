@@ -14,25 +14,39 @@ namespace ProjetoJogoRandom
 
             int total = rodada1 + rodada2 + rodada3;
 
-            Console.WriteLine($"Dice roll: {rodada1} + {rodada2} + {rodada3} = {total}");
+            Console.WriteLine($"Rodada de dados: {rodada1} + {rodada2} + {rodada3} = {total}");
             if ((rodada1 == rodada2) || (rodada2 == rodada3) || (rodada1 == rodada3))
             {
-                Console.WriteLine("2 Dados Iguais!  +2 bonus no total!");
-                total += 2;
+                if ((rodada1 == rodada2) && (rodada2 == rodada3))
+                {
+                    total += 6;
+                    Console.WriteLine("3 Dados Iguais!  +6 bonus to total! Seus pontos foram: " + total);
+                    
+                }
+                else
+                {
+                    total += 2;
+                    Console.WriteLine("2 Dados Iguais!  +2 bonus no total!  Seus pontos foram: " + total);
+                   
+                }            
             }
-            if ((rodada1 == rodada2) && (rodada2 == rodada3))
+            
+            if (total >= 16)
             {
-                Console.WriteLine("3 Dados Iguais!  +6 bonus to total!");
-                total += 6;
-            }
-            if (total > 15)
-            {
-                Console.WriteLine("Você venceu, Parabéns!");
+                Console.WriteLine("Você acaba de ganhar um carro zero!");
             }
 
-            if (total <= 15)
+            else if (total >= 10)
             {
-                Console.WriteLine("Você perdeu, tente outra vez!");
+                Console.WriteLine("Você acaba de ganhar um laptop!");
+            }
+            else if (total == 7)
+            {
+                Console.WriteLine("Você ganhou uma viagem!");
+            }
+            else
+            {
+                Console.WriteLine("Você acaba de ganhar um gatinho!");
             }
         }
     }
