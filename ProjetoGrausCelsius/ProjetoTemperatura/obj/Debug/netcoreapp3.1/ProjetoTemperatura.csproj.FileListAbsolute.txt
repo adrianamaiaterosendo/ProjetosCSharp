@@ -1,0 +1,29 @@
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\Aulas CSharp\obj\Debug\netcoreapp3.1\ProjetoTemperatura.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\Aulas CSharp\obj\Debug\netcoreapp3.1\ProjetoTemperatura.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\Aulas CSharp\obj\Debug\netcoreapp3.1\ProjetoTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.csprojAssemblyReference.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\ProjetoTemperatura\bin\Debug\netcoreapp3.1\ProjetoTemperatura.exe
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\ProjetoTemperatura\bin\Debug\netcoreapp3.1\ProjetoTemperatura.deps.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\ProjetoTemperatura\bin\Debug\netcoreapp3.1\ProjetoTemperatura.runtimeconfig.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\ProjetoTemperatura\bin\Debug\netcoreapp3.1\ProjetoTemperatura.runtimeconfig.dev.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\ProjetoTemperatura\bin\Debug\netcoreapp3.1\ProjetoTemperatura.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\ProjetoTemperatura\bin\Debug\netcoreapp3.1\ProjetoTemperatura.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.genruntimeconfig.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoGrausCelsius\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.csprojAssemblyReference.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoGrausCelsius\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoGrausCelsius\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoGrausCelsius\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoGrausCelsius\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoGrausCelsius\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoGrausCelsius\ProjetoTemperatura\bin\Debug\netcoreapp3.1\ProjetoTemperatura.exe
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoGrausCelsius\ProjetoTemperatura\bin\Debug\netcoreapp3.1\ProjetoTemperatura.deps.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoGrausCelsius\ProjetoTemperatura\bin\Debug\netcoreapp3.1\ProjetoTemperatura.runtimeconfig.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoGrausCelsius\ProjetoTemperatura\bin\Debug\netcoreapp3.1\ProjetoTemperatura.runtimeconfig.dev.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoGrausCelsius\ProjetoTemperatura\bin\Debug\netcoreapp3.1\ProjetoTemperatura.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoGrausCelsius\ProjetoTemperatura\bin\Debug\netcoreapp3.1\ProjetoTemperatura.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoGrausCelsius\ProjetoTemperatura\obj\Debug\netcoreapp3.1\ProjetoTemperatura.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Aulas CSharp\obj\Debug\netcoreapp3.1\Aulas CSharp.csprojAssemblyReference.cache
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Aulas CSharp\obj\Debug\netcoreapp3.1\Aulas CSharp.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Aulas CSharp\obj\Debug\netcoreapp3.1\Aulas CSharp.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Aulas CSharp\obj\Debug\netcoreapp3.1\Aulas CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Aulas CSharp\bin\Debug\netcoreapp3.1\Aulas CSharp.exe
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Aulas CSharp\bin\Debug\netcoreapp3.1\Aulas CSharp.deps.json
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Aulas CSharp\bin\Debug\netcoreapp3.1\Aulas CSharp.runtimeconfig.json
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Aulas CSharp\bin\Debug\netcoreapp3.1\Aulas CSharp.runtimeconfig.dev.json
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Aulas CSharp\bin\Debug\netcoreapp3.1\Aulas CSharp.dll
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Aulas CSharp\bin\Debug\netcoreapp3.1\Aulas CSharp.pdb
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Aulas CSharp\obj\Debug\netcoreapp3.1\Aulas CSharp.dll
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Aulas CSharp\obj\Debug\netcoreapp3.1\Aulas CSharp.pdb
+C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Aulas CSharp\obj\Debug\netcoreapp3.1\Aulas CSharp.genruntimeconfig.cache
