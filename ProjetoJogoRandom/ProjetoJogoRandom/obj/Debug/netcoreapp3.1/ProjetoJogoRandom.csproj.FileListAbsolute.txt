@@ -1,0 +1,13 @@
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoJogoRandom\ProjetoJogoRandom\bin\Debug\netcoreapp3.1\ProjetoJogoRandom.exe
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoJogoRandom\ProjetoJogoRandom\bin\Debug\netcoreapp3.1\ProjetoJogoRandom.deps.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoJogoRandom\ProjetoJogoRandom\bin\Debug\netcoreapp3.1\ProjetoJogoRandom.runtimeconfig.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoJogoRandom\ProjetoJogoRandom\bin\Debug\netcoreapp3.1\ProjetoJogoRandom.runtimeconfig.dev.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoJogoRandom\ProjetoJogoRandom\bin\Debug\netcoreapp3.1\ProjetoJogoRandom.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoJogoRandom\ProjetoJogoRandom\bin\Debug\netcoreapp3.1\ProjetoJogoRandom.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoJogoRandom\ProjetoJogoRandom\obj\Debug\netcoreapp3.1\ProjetoJogoRandom.csprojAssemblyReference.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoJogoRandom\ProjetoJogoRandom\obj\Debug\netcoreapp3.1\ProjetoJogoRandom.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoJogoRandom\ProjetoJogoRandom\obj\Debug\netcoreapp3.1\ProjetoJogoRandom.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoJogoRandom\ProjetoJogoRandom\obj\Debug\netcoreapp3.1\ProjetoJogoRandom.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoJogoRandom\ProjetoJogoRandom\obj\Debug\netcoreapp3.1\ProjetoJogoRandom.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoJogoRandom\ProjetoJogoRandom\obj\Debug\netcoreapp3.1\ProjetoJogoRandom.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoJogoRandom\ProjetoJogoRandom\obj\Debug\netcoreapp3.1\ProjetoJogoRandom.genruntimeconfig.cache
