@@ -1,0 +1,13 @@
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoSwitchCase\ProjetoSwitchCase\bin\Debug\netcoreapp3.1\ProjetoSwitchCase.exe
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoSwitchCase\ProjetoSwitchCase\bin\Debug\netcoreapp3.1\ProjetoSwitchCase.deps.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoSwitchCase\ProjetoSwitchCase\bin\Debug\netcoreapp3.1\ProjetoSwitchCase.runtimeconfig.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoSwitchCase\ProjetoSwitchCase\bin\Debug\netcoreapp3.1\ProjetoSwitchCase.runtimeconfig.dev.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoSwitchCase\ProjetoSwitchCase\bin\Debug\netcoreapp3.1\ProjetoSwitchCase.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoSwitchCase\ProjetoSwitchCase\bin\Debug\netcoreapp3.1\ProjetoSwitchCase.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoSwitchCase\ProjetoSwitchCase\obj\Debug\netcoreapp3.1\ProjetoSwitchCase.csprojAssemblyReference.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoSwitchCase\ProjetoSwitchCase\obj\Debug\netcoreapp3.1\ProjetoSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoSwitchCase\ProjetoSwitchCase\obj\Debug\netcoreapp3.1\ProjetoSwitchCase.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoSwitchCase\ProjetoSwitchCase\obj\Debug\netcoreapp3.1\ProjetoSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoSwitchCase\ProjetoSwitchCase\obj\Debug\netcoreapp3.1\ProjetoSwitchCase.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoSwitchCase\ProjetoSwitchCase\obj\Debug\netcoreapp3.1\ProjetoSwitchCase.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoSwitchCase\ProjetoSwitchCase\obj\Debug\netcoreapp3.1\ProjetoSwitchCase.genruntimeconfig.cache
