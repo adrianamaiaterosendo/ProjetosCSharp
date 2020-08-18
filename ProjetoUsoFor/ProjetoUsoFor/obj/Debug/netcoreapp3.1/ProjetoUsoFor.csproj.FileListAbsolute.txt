@@ -1,0 +1,13 @@
+C:\Users\Adriana\source\repos\ProjetoUsoFor\ProjetoUsoFor\bin\Debug\netcoreapp3.1\ProjetoUsoFor.exe
+C:\Users\Adriana\source\repos\ProjetoUsoFor\ProjetoUsoFor\bin\Debug\netcoreapp3.1\ProjetoUsoFor.deps.json
+C:\Users\Adriana\source\repos\ProjetoUsoFor\ProjetoUsoFor\bin\Debug\netcoreapp3.1\ProjetoUsoFor.runtimeconfig.json
+C:\Users\Adriana\source\repos\ProjetoUsoFor\ProjetoUsoFor\bin\Debug\netcoreapp3.1\ProjetoUsoFor.runtimeconfig.dev.json
+C:\Users\Adriana\source\repos\ProjetoUsoFor\ProjetoUsoFor\bin\Debug\netcoreapp3.1\ProjetoUsoFor.dll
+C:\Users\Adriana\source\repos\ProjetoUsoFor\ProjetoUsoFor\bin\Debug\netcoreapp3.1\ProjetoUsoFor.pdb
+C:\Users\Adriana\source\repos\ProjetoUsoFor\ProjetoUsoFor\obj\Debug\netcoreapp3.1\ProjetoUsoFor.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\ProjetoUsoFor\ProjetoUsoFor\obj\Debug\netcoreapp3.1\ProjetoUsoFor.AssemblyInfoInputs.cache
+C:\Users\Adriana\source\repos\ProjetoUsoFor\ProjetoUsoFor\obj\Debug\netcoreapp3.1\ProjetoUsoFor.AssemblyInfo.cs
+C:\Users\Adriana\source\repos\ProjetoUsoFor\ProjetoUsoFor\obj\Debug\netcoreapp3.1\ProjetoUsoFor.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\ProjetoUsoFor\ProjetoUsoFor\obj\Debug\netcoreapp3.1\ProjetoUsoFor.dll
+C:\Users\Adriana\source\repos\ProjetoUsoFor\ProjetoUsoFor\obj\Debug\netcoreapp3.1\ProjetoUsoFor.pdb
+C:\Users\Adriana\source\repos\ProjetoUsoFor\ProjetoUsoFor\obj\Debug\netcoreapp3.1\ProjetoUsoFor.genruntimeconfig.cache
