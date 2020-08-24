@@ -1,0 +1,13 @@
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAcessos\ProjetoAcessos\bin\Debug\netcoreapp3.1\ProjetoAcessos.exe
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAcessos\ProjetoAcessos\bin\Debug\netcoreapp3.1\ProjetoAcessos.deps.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAcessos\ProjetoAcessos\bin\Debug\netcoreapp3.1\ProjetoAcessos.runtimeconfig.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAcessos\ProjetoAcessos\bin\Debug\netcoreapp3.1\ProjetoAcessos.runtimeconfig.dev.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAcessos\ProjetoAcessos\bin\Debug\netcoreapp3.1\ProjetoAcessos.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAcessos\ProjetoAcessos\bin\Debug\netcoreapp3.1\ProjetoAcessos.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAcessos\ProjetoAcessos\obj\Debug\netcoreapp3.1\ProjetoAcessos.csprojAssemblyReference.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAcessos\ProjetoAcessos\obj\Debug\netcoreapp3.1\ProjetoAcessos.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAcessos\ProjetoAcessos\obj\Debug\netcoreapp3.1\ProjetoAcessos.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAcessos\ProjetoAcessos\obj\Debug\netcoreapp3.1\ProjetoAcessos.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAcessos\ProjetoAcessos\obj\Debug\netcoreapp3.1\ProjetoAcessos.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAcessos\ProjetoAcessos\obj\Debug\netcoreapp3.1\ProjetoAcessos.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAcessos\ProjetoAcessos\obj\Debug\netcoreapp3.1\ProjetoAcessos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetosCursoCaelum\ProjetosCursoCaelum\bin\Debug\netcoreapp3.1\ProjetosCursoCaelum.exe
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetosCursoCaelum\ProjetosCursoCaelum\bin\Debug\netcoreapp3.1\ProjetosCursoCaelum.deps.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetosCursoCaelum\ProjetosCursoCaelum\bin\Debug\netcoreapp3.1\ProjetosCursoCaelum.runtimeconfig.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetosCursoCaelum\ProjetosCursoCaelum\bin\Debug\netcoreapp3.1\ProjetosCursoCaelum.runtimeconfig.dev.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetosCursoCaelum\ProjetosCursoCaelum\bin\Debug\netcoreapp3.1\ProjetosCursoCaelum.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetosCursoCaelum\ProjetosCursoCaelum\bin\Debug\netcoreapp3.1\ProjetosCursoCaelum.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetosCursoCaelum\ProjetosCursoCaelum\obj\Debug\netcoreapp3.1\ProjetosCursoCaelum.csprojAssemblyReference.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetosCursoCaelum\ProjetosCursoCaelum\obj\Debug\netcoreapp3.1\ProjetosCursoCaelum.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetosCursoCaelum\ProjetosCursoCaelum\obj\Debug\netcoreapp3.1\ProjetosCursoCaelum.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetosCursoCaelum\ProjetosCursoCaelum\obj\Debug\netcoreapp3.1\ProjetosCursoCaelum.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetosCursoCaelum\ProjetosCursoCaelum\obj\Debug\netcoreapp3.1\ProjetosCursoCaelum.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetosCursoCaelum\ProjetosCursoCaelum\obj\Debug\netcoreapp3.1\ProjetosCursoCaelum.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetosCursoCaelum\ProjetosCursoCaelum\obj\Debug\netcoreapp3.1\ProjetosCursoCaelum.genruntimeconfig.cache
