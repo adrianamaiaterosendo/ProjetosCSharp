@@ -1,0 +1,10 @@
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoOrientacaoObj\ProjetoOrientacaoObj\bin\Debug\ProjetoOrientacaoObj.exe.config
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoOrientacaoObj\ProjetoOrientacaoObj\bin\Debug\ProjetoOrientacaoObj.exe
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoOrientacaoObj\ProjetoOrientacaoObj\bin\Debug\ProjetoOrientacaoObj.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoOrientacaoObj\ProjetoOrientacaoObj\obj\Debug\ProjetoOrientacaoObj.csprojAssemblyReference.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoOrientacaoObj\ProjetoOrientacaoObj\obj\Debug\ProjetoOrientacaoObj.Conta.resources
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoOrientacaoObj\ProjetoOrientacaoObj\obj\Debug\ProjetoOrientacaoObj.Properties.Resources.resources
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoOrientacaoObj\ProjetoOrientacaoObj\obj\Debug\ProjetoOrientacaoObj.csproj.GenerateResource.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoOrientacaoObj\ProjetoOrientacaoObj\obj\Debug\ProjetoOrientacaoObj.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoOrientacaoObj\ProjetoOrientacaoObj\obj\Debug\ProjetoOrientacaoObj.exe
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoOrientacaoObj\ProjetoOrientacaoObj\obj\Debug\ProjetoOrientacaoObj.pdb
