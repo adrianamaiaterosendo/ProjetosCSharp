@@ -10,12 +10,22 @@ using System.Windows.Forms;
 
 namespace ProjetoOrientacaoObj
 {
-
+    class Cliente
+    {
+        public string nome;
+        public string cpf;
+        public string rg;
+        public string endereço;
+    }
     class Conta
     {
-        public double saldo = 100.0;
-        public int numero;
-        public string titular;
+        private double saldo = 100.0;
+        private int numero;
+        private Cliente titular;
+        public double PegaSaldo()
+        {
+            return this.saldo;
+        }
         
         public bool Saca(double valor)
         {
@@ -51,9 +61,21 @@ namespace ProjetoOrientacaoObj
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Conta c = new Conta();
+            Conta conta = new Conta();
+
+            MessageBox.Show("saldo: " + conta.PegaSaldo());
+
+            /*Conta c = new Conta();
             c.numero = 1;
-            c.titular = "Victor";
+            Cliente Victor = new Cliente();
+            Victor.nome = "Victor";
+            Conta umaConta = new Conta();
+            umaConta.titular = Victor;
+
+            umaConta.titular.rg = "23.456.789-10";
+            MessageBox.Show(umaConta.titular.nome);
+            MessageBox.Show(Victor.rg);
+
             c.saldo = 100;
            if( c.Saca(10))
             {
@@ -65,14 +87,14 @@ namespace ProjetoOrientacaoObj
             }
             c.Deposita(100);
 
-            Conta Victor = new Conta();
-            Victor.saldo = 1000.0;
+            //Conta Victor = new Conta();
+            //Victor.saldo = 1000.0;
 
-            Conta Guilherme = new Conta();
+            //Conta Guilherme = new Conta();
 
-            Victor.Transfere(100.0, Guilherme);
-            MessageBox.Show(" Seu saldo ficou em: " + Victor.saldo);
-           
+            //Victor.Transfere(100.0, Guilherme);
+            //MessageBox.Show(" Seu saldo ficou em: " + Victor.saldo);
+           */
 
         }
     }
