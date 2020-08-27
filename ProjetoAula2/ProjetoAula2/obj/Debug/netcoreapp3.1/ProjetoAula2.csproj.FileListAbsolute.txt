@@ -1,0 +1,13 @@
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAula2\ProjetoAula2\bin\Debug\netcoreapp3.1\ProjetoAula2.exe
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAula2\ProjetoAula2\bin\Debug\netcoreapp3.1\ProjetoAula2.deps.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAula2\ProjetoAula2\bin\Debug\netcoreapp3.1\ProjetoAula2.runtimeconfig.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAula2\ProjetoAula2\bin\Debug\netcoreapp3.1\ProjetoAula2.runtimeconfig.dev.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAula2\ProjetoAula2\bin\Debug\netcoreapp3.1\ProjetoAula2.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAula2\ProjetoAula2\bin\Debug\netcoreapp3.1\ProjetoAula2.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAula2\ProjetoAula2\obj\Debug\netcoreapp3.1\ProjetoAula2.csprojAssemblyReference.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAula2\ProjetoAula2\obj\Debug\netcoreapp3.1\ProjetoAula2.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAula2\ProjetoAula2\obj\Debug\netcoreapp3.1\ProjetoAula2.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAula2\ProjetoAula2\obj\Debug\netcoreapp3.1\ProjetoAula2.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAula2\ProjetoAula2\obj\Debug\netcoreapp3.1\ProjetoAula2.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAula2\ProjetoAula2\obj\Debug\netcoreapp3.1\ProjetoAula2.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\ProjetoAula2\ProjetoAula2\obj\Debug\netcoreapp3.1\ProjetoAula2.genruntimeconfig.cache
