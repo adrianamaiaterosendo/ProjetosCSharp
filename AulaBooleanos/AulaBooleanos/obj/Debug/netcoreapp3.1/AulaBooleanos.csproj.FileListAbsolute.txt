@@ -1,0 +1,13 @@
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaBooleanos\AulaBooleanos\bin\Debug\netcoreapp3.1\AulaBooleanos.exe
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaBooleanos\AulaBooleanos\bin\Debug\netcoreapp3.1\AulaBooleanos.deps.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaBooleanos\AulaBooleanos\bin\Debug\netcoreapp3.1\AulaBooleanos.runtimeconfig.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaBooleanos\AulaBooleanos\bin\Debug\netcoreapp3.1\AulaBooleanos.runtimeconfig.dev.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaBooleanos\AulaBooleanos\bin\Debug\netcoreapp3.1\AulaBooleanos.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaBooleanos\AulaBooleanos\bin\Debug\netcoreapp3.1\AulaBooleanos.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaBooleanos\AulaBooleanos\obj\Debug\netcoreapp3.1\AulaBooleanos.csprojAssemblyReference.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaBooleanos\AulaBooleanos\obj\Debug\netcoreapp3.1\AulaBooleanos.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaBooleanos\AulaBooleanos\obj\Debug\netcoreapp3.1\AulaBooleanos.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaBooleanos\AulaBooleanos\obj\Debug\netcoreapp3.1\AulaBooleanos.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaBooleanos\AulaBooleanos\obj\Debug\netcoreapp3.1\AulaBooleanos.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaBooleanos\AulaBooleanos\obj\Debug\netcoreapp3.1\AulaBooleanos.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaBooleanos\AulaBooleanos\obj\Debug\netcoreapp3.1\AulaBooleanos.genruntimeconfig.cache
