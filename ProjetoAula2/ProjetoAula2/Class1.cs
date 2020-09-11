@@ -5,10 +5,10 @@ using System.Text;
 
 namespace ProjetoAula2
 {
-    class Conta
+    public class Conta
     {
         private Cliente titular;
-        private double saldo { get; private set; }
+        private double saldo { get; set; }
         private int numero;
 
      

@@ -6,11 +6,17 @@ namespace ProjetoAula2
 {
     class Cliente
     {
-        public string nome;
+        public string nome { get; set; }
         public string cpf;
         public string rg;
         public string telefone;
-        public int idade;
+        public int idade { get; set; }
+
+        public Cliente (string nome , int idade)
+        {
+            this.nome = nome;
+            this.idade = idade;
+        }
 
         
 
