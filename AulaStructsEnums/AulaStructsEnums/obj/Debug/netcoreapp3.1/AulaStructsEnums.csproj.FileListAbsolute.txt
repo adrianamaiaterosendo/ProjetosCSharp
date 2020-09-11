@@ -1,0 +1,13 @@
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaStructsEnums\AulaStructsEnums\bin\Debug\netcoreapp3.1\AulaStructsEnums.exe
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaStructsEnums\AulaStructsEnums\bin\Debug\netcoreapp3.1\AulaStructsEnums.deps.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaStructsEnums\AulaStructsEnums\bin\Debug\netcoreapp3.1\AulaStructsEnums.runtimeconfig.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaStructsEnums\AulaStructsEnums\bin\Debug\netcoreapp3.1\AulaStructsEnums.runtimeconfig.dev.json
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaStructsEnums\AulaStructsEnums\bin\Debug\netcoreapp3.1\AulaStructsEnums.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaStructsEnums\AulaStructsEnums\bin\Debug\netcoreapp3.1\AulaStructsEnums.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaStructsEnums\AulaStructsEnums\obj\Debug\netcoreapp3.1\AulaStructsEnums.csprojAssemblyReference.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaStructsEnums\AulaStructsEnums\obj\Debug\netcoreapp3.1\AulaStructsEnums.AssemblyInfoInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaStructsEnums\AulaStructsEnums\obj\Debug\netcoreapp3.1\AulaStructsEnums.AssemblyInfo.cs
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaStructsEnums\AulaStructsEnums\obj\Debug\netcoreapp3.1\AulaStructsEnums.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaStructsEnums\AulaStructsEnums\obj\Debug\netcoreapp3.1\AulaStructsEnums.dll
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaStructsEnums\AulaStructsEnums\obj\Debug\netcoreapp3.1\AulaStructsEnums.pdb
+C:\Users\Adriana\OneDrive\Documentos\ProjetosCSharp\AulaStructsEnums\AulaStructsEnums\obj\Debug\netcoreapp3.1\AulaStructsEnums.genruntimeconfig.cache
