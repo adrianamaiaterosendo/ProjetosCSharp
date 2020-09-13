@@ -6,22 +6,19 @@ namespace ProjetoAula2
     {
         static void Main(string[] args)
         {
-            Cliente adriana = new Cliente();
-            adriana.nome = "Adriana";
+            Cliente adriana = new Cliente("Adriana", 24)
+            {
+                cpf = "123.456.778-64",
+                rg = "33.770.876-87",
+                
+            };
             Conta adrianaConta = new Conta();
-            adrianaConta.titular = adriana;
-            adrianaConta.Numero(); ;
             adrianaConta.PegaSaldo();
 
-            Cliente victor = new Cliente();
-            victor.nome = "Victor";
+            Cliente victor = new Cliente("Victor", 25);
             Conta victorConta = new Conta();
-            victorConta.titular = victor;
-            victorConta.Numero(2);
             victorConta.PegaSaldo ();
-            victorConta.titular.rg = "76.999.876-63";
-            victorConta.titular.idade = 15;
-
+         
             Console.WriteLine(victor.rg);
 
 
@@ -43,7 +40,7 @@ namespace ProjetoAula2
             {
                 if (victor.idade <= MaiorDeIdade)
                 {
-                    Console.WriteLine(victorConta.titular.nome + ", você precisa de autorização para abrir a conta.");
+                    Console.WriteLine(victor.nome + ", você precisa de autorização para abrir a conta.");
                 }
                 
             }
