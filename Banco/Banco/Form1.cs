@@ -22,14 +22,14 @@ namespace Banco
         {
             this.c = new Conta();
             
-            Conta c = new Conta();
-            textTitular.Text = c.Titular.Nome;
-            textNumero.Text = Convert.ToString(c.Numero);
-            textSaldo.Text = Convert.ToString(c.Saldo);
+            Conta conta = new Conta();
+            textTitular.Text = conta.Titular.Nome;
+            textNumero.Text = Convert.ToString(conta.Numero);
+            textSaldo.Text = Convert.ToString(conta.Saldo);
 
-            c.Numero = 1;
+            conta.Numero = 1;
             Cliente cliente = new Cliente("victor");
-            c.Titular = cliente;
+            conta.Titular = cliente;
 
         }
 
@@ -43,7 +43,7 @@ namespace Banco
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void botaoDeposito_Click(object sender, EventArgs e)
         {
             string valorDigitado = textValor.Text;
             double valorOperação = Convert.ToDouble(valorDigitado);
@@ -59,6 +59,11 @@ namespace Banco
             this.c.Saca(valorOperacao);
             textSaldo.Text = Convert.ToString(this.c.Saldo);
             MessageBox.Show("Sucesso");
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 
